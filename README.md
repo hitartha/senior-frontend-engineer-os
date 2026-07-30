@@ -33,11 +33,18 @@ Instead of collecting random notes, I use this repository to build reusable know
 ```markdown
 senior-frontend-engineer-os
 │
-├── README.md   ← 
-├── LICENSE     ← 
-├── .gitignore  ← 
+├── README.md   ← Project overview
+├── LICENSE     ← License information
+├── .gitignore  ← Git ignore rules
 │
 ├── docs/       ← Public documentation
+│   ├── roadmap/
+│   ├── architecture/
+│   ├── adr/
+│   ├── notes/
+│   ├── checklists/
+│   ├── guides/
+│   └── decisions/
 ├── learning/   ← Technology learning notes
 ├── projects/   ← Real-world projects
 ├── toolkit/    ← Reusable code
